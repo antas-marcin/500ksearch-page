@@ -2,6 +2,8 @@
 
 A simple React + TypeScript web application for searching images in Weaviate using natural language queries.
 
+This is project that has been created solely by [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) and one can test how it works by going to this page: https://500ksearch.com/
+
 ## Features
 
 - Connect to any Weaviate instance (local or cloud)
